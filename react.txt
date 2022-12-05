@@ -1,0 +1,8 @@
+step 1 => Node should be install
+step 2 => Git should be install
+step 3 => check if every thing is installed
+	a) Node --version
+	b) Npm  --version
+	c) Git  --version
+step 4 => React install by using 
+	npx create-react-app myapp
